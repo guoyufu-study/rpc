@@ -1,0 +1,11 @@
+# 生成的文件
+target
+# 测试及站点
+src/*
+!src/main/
+# Eclipse IDE 中项目描述文件
+.project
+# 项目编译环境信息
+.classpath
+# 配置文件
+.settings/*
